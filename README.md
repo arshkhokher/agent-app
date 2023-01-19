@@ -1,4 +1,4 @@
 # Create React App
 
  `npm install`
- `npm run dev'
+ `npm run dev`
